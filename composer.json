@@ -1,5 +1,5 @@
 {
-    "name": "acmephp/core",
+    "name": "quantumca/acmephp-core",
     "description": "Raw implementation of the ACME protocol in PHP",
     "type": "library",
     "license": "MIT",
